@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "900294535991",
+    "project_id": "pyramids-of-gods-b31e5",
+    "storage_bucket": "pyramids-of-gods-b31e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900294535991:ios:b531ef5b5a68ec51b788b2",
+        "android_client_info": {
+          "package_name": "com.pyramids.ofgods"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9W_77YTIMiQOxwEtuuEcUXTbRd00KiYU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

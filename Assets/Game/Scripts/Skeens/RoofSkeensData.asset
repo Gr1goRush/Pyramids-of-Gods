@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf51abed2d540d94ab74ef222782db71, type: 3}
+  m_Name: RoofSkeensData
+  m_EditorClassIdentifier: 
+  skeens:
+  - Name: 0
+    Sprite: {fileID: 21300000, guid: 67332fd2a9b994a4697c1f4881cd3307, type: 3}
+  - Name: 1
+    Sprite: {fileID: 21300000, guid: 33cc9d62f38077f45a8c43c3949bdb8f, type: 3}
+  - Name: 2
+    Sprite: {fileID: 21300000, guid: 86a9d634b06bf314096873d983840a1f, type: 3}
+  - Name: 3
+    Sprite: {fileID: 21300000, guid: 837ed8a90a2ab704d9e73d146a780506, type: 3}
